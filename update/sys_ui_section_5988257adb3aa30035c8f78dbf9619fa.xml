@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="5988257adb3aa30035c8f78dbf9619fa" sys_domain="global" table="x_snc_poc_usermana_pocum_userinfotable" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>le-binh</sys_created_by>
+            <sys_created_on>2019-01-08 08:08:45</sys_created_on>
+            <sys_id>1588257adb3aa30035c8f78dbf9619fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_usermana_pocum_userinfotable" sys_domain="global" view="Default view">5988257adb3aa30035c8f78dbf9619fa</sys_ui_section>
+            <sys_updated_by>le-binh</sys_updated_by>
+            <sys_updated_on>2019-01-08 08:08:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>username</element>
+            <position>1</position>
+            <sys_created_by>le-binh</sys_created_by>
+            <sys_created_on>2019-01-08 08:08:45</sys_created_on>
+            <sys_id>9988257adb3aa30035c8f78dbf9619fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_usermana_pocum_userinfotable" sys_domain="global" view="Default view">5988257adb3aa30035c8f78dbf9619fa</sys_ui_section>
+            <sys_updated_by>le-binh</sys_updated_by>
+            <sys_updated_on>2019-01-08 08:08:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>romanname</element>
+            <position>2</position>
+            <sys_created_by>le-binh</sys_created_by>
+            <sys_created_on>2019-01-08 08:08:45</sys_created_on>
+            <sys_id>1d88257adb3aa30035c8f78dbf9619fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_usermana_pocum_userinfotable" sys_domain="global" view="Default view">5988257adb3aa30035c8f78dbf9619fa</sys_ui_section>
+            <sys_updated_by>le-binh</sys_updated_by>
+            <sys_updated_on>2019-01-08 08:08:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kanjiname</element>
+            <position>3</position>
+            <sys_created_by>le-binh</sys_created_by>
+            <sys_created_on>2019-01-08 08:08:45</sys_created_on>
+            <sys_id>9d88257adb3aa30035c8f78dbf9619fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_usermana_pocum_userinfotable" sys_domain="global" view="Default view">5988257adb3aa30035c8f78dbf9619fa</sys_ui_section>
+            <sys_updated_by>le-binh</sys_updated_by>
+            <sys_updated_on>2019-01-08 08:08:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>displayname</element>
+            <position>4</position>
+            <sys_created_by>le-binh</sys_created_by>
+            <sys_created_on>2019-01-08 08:08:45</sys_created_on>
+            <sys_id>1188257adb3aa30035c8f78dbf9619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_usermana_pocum_userinfotable" sys_domain="global" view="Default view">5988257adb3aa30035c8f78dbf9619fa</sys_ui_section>
+            <sys_updated_by>le-binh</sys_updated_by>
+            <sys_updated_on>2019-01-08 08:08:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>userpassword</element>
+            <position>5</position>
+            <sys_created_by>le-binh</sys_created_by>
+            <sys_created_on>2019-01-08 08:08:45</sys_created_on>
+            <sys_id>9188257adb3aa30035c8f78dbf9619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_usermana_pocum_userinfotable" sys_domain="global" view="Default view">5988257adb3aa30035c8f78dbf9619fa</sys_ui_section>
+            <sys_updated_by>le-binh</sys_updated_by>
+            <sys_updated_on>2019-01-08 08:08:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>6</position>
+            <sys_created_by>le-binh</sys_created_by>
+            <sys_created_on>2019-01-08 08:08:45</sys_created_on>
+            <sys_id>1588257adb3aa30035c8f78dbf9619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_usermana_pocum_userinfotable" sys_domain="global" view="Default view">5988257adb3aa30035c8f78dbf9619fa</sys_ui_section>
+            <sys_updated_by>le-binh</sys_updated_by>
+            <sys_updated_on>2019-01-08 08:08:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>department</element>
+            <position>7</position>
+            <sys_created_by>le-binh</sys_created_by>
+            <sys_created_on>2019-01-08 08:08:45</sys_created_on>
+            <sys_id>9588257adb3aa30035c8f78dbf9619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_usermana_pocum_userinfotable" sys_domain="global" view="Default view">5988257adb3aa30035c8f78dbf9619fa</sys_ui_section>
+            <sys_updated_by>le-binh</sys_updated_by>
+            <sys_updated_on>2019-01-08 08:08:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <position>8</position>
+            <sys_created_by>le-binh</sys_created_by>
+            <sys_created_on>2019-01-08 08:08:45</sys_created_on>
+            <sys_id>1988257adb3aa30035c8f78dbf9619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_usermana_pocum_userinfotable" sys_domain="global" view="Default view">5988257adb3aa30035c8f78dbf9619fa</sys_ui_section>
+            <sys_updated_by>le-binh</sys_updated_by>
+            <sys_updated_on>2019-01-08 08:08:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>departmentlv1</element>
+            <position>9</position>
+            <sys_created_by>le-binh</sys_created_by>
+            <sys_created_on>2019-01-08 08:08:45</sys_created_on>
+            <sys_id>9988257adb3aa30035c8f78dbf9619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_usermana_pocum_userinfotable" sys_domain="global" view="Default view">5988257adb3aa30035c8f78dbf9619fa</sys_ui_section>
+            <sys_updated_by>le-binh</sys_updated_by>
+            <sys_updated_on>2019-01-08 08:08:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>departmentlv2</element>
+            <position>10</position>
+            <sys_created_by>le-binh</sys_created_by>
+            <sys_created_on>2019-01-08 08:08:45</sys_created_on>
+            <sys_id>1d88257adb3aa30035c8f78dbf9619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_usermana_pocum_userinfotable" sys_domain="global" view="Default view">5988257adb3aa30035c8f78dbf9619fa</sys_ui_section>
+            <sys_updated_by>le-binh</sys_updated_by>
+            <sys_updated_on>2019-01-08 08:08:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>departmentlv3</element>
+            <position>11</position>
+            <sys_created_by>le-binh</sys_created_by>
+            <sys_created_on>2019-01-08 08:08:45</sys_created_on>
+            <sys_id>9d88257adb3aa30035c8f78dbf9619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_usermana_pocum_userinfotable" sys_domain="global" view="Default view">5988257adb3aa30035c8f78dbf9619fa</sys_ui_section>
+            <sys_updated_by>le-binh</sys_updated_by>
+            <sys_updated_on>2019-01-08 08:08:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>departmentlv4</element>
+            <position>12</position>
+            <sys_created_by>le-binh</sys_created_by>
+            <sys_created_on>2019-01-08 08:08:45</sys_created_on>
+            <sys_id>1188257adb3aa30035c8f78dbf9619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_usermana_pocum_userinfotable" sys_domain="global" view="Default view">5988257adb3aa30035c8f78dbf9619fa</sys_ui_section>
+            <sys_updated_by>le-binh</sys_updated_by>
+            <sys_updated_on>2019-01-08 08:08:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_poc_usermana_pocum_userinfotable</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>le-binh</sys_created_by>
+            <sys_created_on>2019-01-08 08:08:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5988257adb3aa30035c8f78dbf9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_poc_usermana_pocum_userinfotable</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="PoC_UserManagement" source="x_snc_poc_usermana">6eacd572db3aa30035c8f78dbf96195e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PoC_UserManagement">6eacd572db3aa30035c8f78dbf96195e</sys_scope>
+            <sys_update_name>sys_ui_section_5988257adb3aa30035c8f78dbf9619fa</sys_update_name>
+            <sys_updated_by>le-binh</sys_updated_by>
+            <sys_updated_on>2019-01-08 08:08:45</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

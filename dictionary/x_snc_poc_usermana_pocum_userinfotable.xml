@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" label="PoCUM_UserInfoTable" max_length="40" name="x_snc_poc_usermana_pocum_userinfotable" type="collection">
+        <element label="Department" mandatory="true" max_length="255" name="department" type="string"/>
+        <element label="DepartmentLv1" max_length="255" name="departmentlv1" type="string"/>
+        <element label="DepartmentLv2" max_length="255" name="departmentlv2" type="string"/>
+        <element label="DepartmentLv3" max_length="255" name="departmentlv3" type="string"/>
+        <element label="DepartmentLv4" max_length="255" name="departmentlv4" type="string"/>
+        <element label="DisplayName" max_length="910" name="displayname" type="string_full_utf8"/>
+        <element label="Email" mandatory="true" max_length="255" name="email" type="string"/>
+        <element label="KanjiName" mandatory="true" max_length="255" name="kanjiname" type="string_full_utf8"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="RomanName" mandatory="true" max_length="255" name="romanname" type="string_full_utf8"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Title" mandatory="true" max_length="255" name="title" type="string"/>
+        <element label="UserName" mandatory="true" max_length="255" name="username" type="string_full_utf8"/>
+        <element label="UserPassword" mandatory="true" max_length="40" name="userpassword" type="password"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
